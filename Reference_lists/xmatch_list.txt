@@ -1,0 +1,14 @@
+CEMP stars:
+J/ApJ/833/20/table1 - Yoon 2016
+J/ApJ/797/21/table3 - Placco 2014
+J/ApJ/658/367/table1 - Komiya 2007
+J/AJ/139/1051/CEMPstars - Placco 2010
+J/A+A/581/A22/table1 - Abate 2015
+J/A+A/509/A93/tables - Masseron 2010
+
+Carbon stars:
+J/A+A/375/366/hesfhlcs - Christlieb 2001
+III/227/catalog - Alksnis 2001
+J/ApJS/226/1/table3 - Ji 2016
+
+
